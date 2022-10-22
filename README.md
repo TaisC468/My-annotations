@@ -1,2 +1,2 @@
-<h1 color-red> My-annotations </h1>
+<h1 color:"red"> My-annotations </h1>
 
