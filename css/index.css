@@ -1,0 +1,25 @@
+header{
+    padding: 30px 15px;
+}
+
+img.logo {
+    font-size: 2px;
+    font-weight: bold;
+    width: 150px;
+    height: 150px;
+    object-fit: fill;
+    float: left;
+}
+
+.cabeçalho a {
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+img.logo h1{
+    display: inline-block;
+    text-align: center;
+}
