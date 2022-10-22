@@ -4,8 +4,8 @@
 Ele será um projeto lento e em constante mudança para que eu possa acrescentar coisas com calma e somente aquilo que consegui entender para executar aqui.</p>
 
 <p> <b> As etapas do primeiro momento serão:</b> </p>
-<p> ★ 1° - Irei começar com o básico fazendo o escopo para ter visualização de palhetas de cores, criando a página inicial do site.
-    ★ 2° - Irei fazer testes e definir por alto como vai ficar a estrutura que quero e cabeçalho, rodapé e  afins.
-    ★ 3° - Irei começar a posicionar alguns conteúdos naquilo que já está criado, e personalizando esse conteúdo.
-    ★ 4° - Irei começar a incrementar o javascript para uma melhor interação dentro deste site.
-    ★ — Estou a pensar ainda em definir e planejar novas etapas para o segundo momento deste projeto.— </p>
+<p>    ★ 1° - Irei começar com o básico fazendo o escopo para ter visualização de palhetas de cores, criando a página inicial do site. </p>
+<p>    ★ 2° - Irei fazer testes e definir por alto como vai ficar a estrutura que quero e cabeçalho, rodapé e  afins. </p>
+<p>    ★ 3° - Irei começar a posicionar alguns conteúdos naquilo que já está criado, e personalizando esse conteúdo. </p>
+<p>    ★ 4° - Irei começar a incrementar o javascript para uma melhor interação dentro deste site.
+<p>    ★ — Estou a pensar ainda em definir e planejar novas etapas para o segundo momento deste projeto.— </p>
