@@ -25,4 +25,4 @@ Ele será um projeto lento e em constante mudança para que eu possa acrescentar
 
 <p> <b> tatus do projeto: </b> </p>
 
-<p> Edamento. /p>
+<p> Em andamento. </p>
